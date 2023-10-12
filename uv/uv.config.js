@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/playground/_/',
-    bare: 'https://client.incog.dev/',
+    bare: 'https://cognetwork-dev.github.io/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/playground/uv/uv.handler.js',
