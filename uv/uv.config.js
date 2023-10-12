@@ -1,5 +1,5 @@
 self.__uv$config = {
-    prefix: '/playground/_/',
+    prefix: '/uvstatic/_/',
     bare: 'https://cognetwork-dev.github.io/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
